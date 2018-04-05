@@ -6,7 +6,7 @@ Cyclic cellular automatons are cool !
 
 Why ?
 
-Because it shows the inherent properties of a basic set of rules I guess
+Because they show the inherent properties of a basic set of rules I guess
 
 #Homemade
 
